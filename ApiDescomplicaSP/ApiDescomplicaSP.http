@@ -1,0 +1,6 @@
+@ApiDescomplicaSP_HostAddress = http://localhost:5001
+
+GET {{ApiDescomplicaSP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
